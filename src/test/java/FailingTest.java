@@ -4,6 +4,6 @@ import static org.junit.Assert.*;
 public class FailingTest {
    @Test
    public void testThatFails() {
-       assertTrue("This should fail", false);
+       assertTrue("This should fail", true);
    }
 }
