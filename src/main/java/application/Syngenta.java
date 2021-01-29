@@ -1,5 +1,4 @@
 package application;
-import exceptions.CustomerTypeException;
 import helper.CalculateTaxHelper;
 import helper.DateConverterHelper;
 import model.CustomerType;
