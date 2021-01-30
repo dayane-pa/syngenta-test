@@ -1,10 +1,14 @@
 package application;
+
 import helper.CalculateTaxHelper;
 import helper.DateConverterHelper;
 import model.CustomerType;
+
 import java.text.ParseException;
 import java.time.LocalDate;
-import java.util.*;
+import java.util.List;
+import java.util.Locale;
+import java.util.Scanner;
 
 public class Syngenta {
 

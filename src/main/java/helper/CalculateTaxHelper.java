@@ -2,6 +2,7 @@ package helper;
 
 import model.CustomerType;
 import model.Hotel;
+
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
